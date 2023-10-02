@@ -17,9 +17,8 @@
 - [[LinkedIn][linked in]]
 - Jacobomantilla10@gmail.com
   
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[<img alt="linked in" width="40px" src="./linkedin.svg" />](https://www.linkedin.com/in/jacobomantilla/)
 
-[linked in]: https://www.linkedin.com/in/jacobomantilla/
 <!---
 jacobomantilla10/jacobomantilla10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
