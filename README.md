@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Full Stack Engineering
 - 📫 Feel free to reach out to me at my e-mail (jacobomantilla10@gmail.com) or at my [LinkedIn](https://www.linkedin.com/in/jacobomantilla/)
-- 👨🏽‍🔬 I'm currently working on a worlde inspired, daily guess-the-soccer-player game.
+- 👨🏽‍🔬 I'm currently working on a wordle inspired, daily guess-the-soccer-player game.
 - 🌱 I’m currently learning Go
 
 #### Projects:
